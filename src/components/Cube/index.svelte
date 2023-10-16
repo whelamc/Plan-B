@@ -1,0 +1,39 @@
+<script lang="ts">
+  // not all the icon can use the viewBox
+  import Icon from 'svelte-icons-pack/Icon.svelte';
+  import CgArrowsExchange from 'svelte-icons-pack/cg/CgArrowsExchange';
+
+  export let planAname:string
+  export let planAlogo:string
+  export let planAurl:string
+  export let planBname:string
+  export let planBlogo:string
+  export let planBurl:string
+</script>
+
+<div class="cube-container h-auto rounded-lg bg-green-500 opacity-90 flex gap-1 items-center justify-center text-white p-4 px-6">
+
+    <div class="plan-a w-1/3 text-center overflow-hidden flex flex-col gap-2">
+      <div class="logo w-full rounded-lg relative pb-[100%] overflow-hidden">
+        <img src={planAlogo} alt="logo" class="object-fill absolute w-full">
+      </div>
+      <a href={planAurl} class="text-2xl font-semibold md:text-lg">{planAname}</a>
+    </div>
+    <div class="arrow w-1/3 text-center">
+      <Icon src={CgArrowsExchange} size="auto" className="m-auto" color="white" />
+    </div>
+    <div class="plan-b w-1/3 text-center overflow-hidden flex flex-col gap-2">
+      <div class="logo w-full rounded-lg relative pb-[100%] overflow-hidden">
+        <img src={planBlogo} alt="logo" class="object-fill absolute w-full">
+      </div>
+      <a href={planBurl} class="text-2xl font-semibold md:text-lg">{planBname}</a>
+    </div>
+
+</div>
+
+<style lang="scss">
+  .cube-container {
+    position: relative;
+  }
+
+</style>
