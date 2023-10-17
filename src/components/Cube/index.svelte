@@ -25,7 +25,7 @@
     <a href={planAurl} class="text-2xl font-semibold md:text-lg">{planAname}</a>
   </div>
   <div class="arrow w-1/3 text-center">
-    <Icon src={CgArrowsExchange} size="auto" className="m-auto" color="white" />
+    <Icon src={CgArrowsExchange} size="100%" className="m-auto" color="white" />
   </div>
   <div class="plan-b w-1/3 text-center overflow-hidden flex flex-col gap-2">
     <div class="logo w-full rounded-lg relative pb-[100%] overflow-hidden">
