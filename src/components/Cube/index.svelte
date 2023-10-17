@@ -1,7 +1,10 @@
 <script lang="ts">
+  import { fade } from 'svelte/transition';
   // not all the icon can use the viewBox
   import Icon from 'svelte-icons-pack/Icon.svelte';
   import CgArrowsExchange from 'svelte-icons-pack/cg/CgArrowsExchange';
+
+  import Image from "@/components/Image/index.svelte"
 
   export let planAname: string
   export let planAlogo: string
@@ -13,10 +16,11 @@
 
 <div
   class="cube-container h-auto rounded-lg bg-green-500 opacity-90 flex gap-1 items-center justify-center text-white p-4 px-6"
+  transition:fade
 >
   <div class="plan-a w-1/3 text-center overflow-hidden flex flex-col gap-2">
     <div class="logo w-full rounded-lg relative pb-[100%] overflow-hidden">
-      <img src={planAlogo} alt="logo" class="object-fill absolute w-full" />
+      <Image src={planAlogo} />
     </div>
     <a href={planAurl} class="text-2xl font-semibold md:text-lg">{planAname}</a>
   </div>
@@ -25,7 +29,7 @@
   </div>
   <div class="plan-b w-1/3 text-center overflow-hidden flex flex-col gap-2">
     <div class="logo w-full rounded-lg relative pb-[100%] overflow-hidden">
-      <img src={planBlogo} alt="logo" class="object-fill absolute w-full" />
+      <Image src={planBlogo} />
     </div>
     <a href={planBurl} class="text-2xl font-semibold md:text-lg">{planBname}</a>
   </div>

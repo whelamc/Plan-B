@@ -6,5 +6,13 @@
     "planBname": "Claude",
     "planBlogo": "https://avatars.slack-edge.com/2023-01-25/4682316783575_bbab0cdcdb3685eb5c87_512.png",
     "planBurl": "https://claude.ai"
+  },
+  {
+    "planAname": "ChatGPT",
+    "planAlogo": "/",
+    "planAurl": "https://chat.openai.com",
+    "planBname": "Claude",
+    "planBlogo": "https://avatars.slack-edge.com/xxxx/4682316783575_bbab0cdcdb3685eb5c87_512.png",
+    "planBurl": "https://claude.ai"
   }
 ]
