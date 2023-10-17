@@ -3,12 +3,12 @@
   import Icon from 'svelte-icons-pack/Icon.svelte';
   import CgArrowsExchange from 'svelte-icons-pack/cg/CgArrowsExchange';
 
-  export let planAname: string;
-  export let planAlogo: string;
-  export let planAurl: string;
-  export let planBname: string;
-  export let planBlogo: string;
-  export let planBurl: string;
+  export let planAname: string
+  export let planAlogo: string
+  export let planAurl: string
+  export let planBname: string
+  export let planBlogo: string
+  export let planBurl: string
 </script>
 
 <div

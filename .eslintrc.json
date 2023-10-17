@@ -1,28 +1,38 @@
 {
-    "env": {
-        "browser": true,
-        "es2021": true,
-        "node": true
-    },
-    "extends": [
-        "eslint:recommended",
-        "plugin:@typescript-eslint/recommended",
-        "prettier"
-    ],
-    "parser": "svelte-eslint-parser",
-    "parserOptions": {
-        "parser": "@typescript-eslint/parser",
-        "ecmaVersion": "latest",
-        "sourceType": "module"
-    },
-    "plugins": [
-        "@typescript-eslint"
-    ],
-    "rules": {
-        "indent": "off",
-        "linebreak-style": "off",
-        "quotes": "off",
-        "semi": "off",
-        "comma-dangle": "off"
+  "env": {
+    "browser": true,
+    "es2021": true,
+    "node": true
+  },
+  "extends": [
+    "eslint:recommended",
+    "plugin:@typescript-eslint/recommended",
+    "prettier"
+  ],
+  "parser": "@typescript-eslint/parser",
+  "parserOptions": {
+    "parser": "@typescript-eslint/parser",
+    "ecmaVersion": "latest",
+    "sourceType": "module",
+    "extraFileExtensions": [".svelte"]
+  },
+  "plugins": ["@typescript-eslint"],
+  "overrides": [
+    // this stays the same
+    {
+      "files": ["*.svelte"],
+      "parser": "svelte-eslint-parser",
+      // Parse the `<script>` in `.svelte` as TypeScript by adding the following configuration.
+      "parserOptions": {
+        "parser": "@typescript-eslint/parser"
+      }
     }
+  ],
+  "rules": {
+    "indent": "off",
+    "linebreak-style": "off",
+    "quotes": "off",
+    "semi": "off",
+    "comma-dangle": "off"
+  }
 }
