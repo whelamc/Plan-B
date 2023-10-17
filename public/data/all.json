@@ -14,5 +14,13 @@
     "planBname": "Penpot",
     "planBlogo": "https://europe1.discourse-cdn.com/standard20/uploads/penpot/original/1X/c7faf02565b6006c99edee4b6a27d2fab54950ed.svg",
     "planBurl": "https://penpot.app"
+  },
+  {
+    "planAname": "TeamViewer",
+    "planAlogo": "https://t0.gstatic.com/images?q=tbn:ANd9GcTSDGiSjwUZMUj4KBXjsDN1rfADl_UCNxhw7lorqU5pm4ozQXlh",
+    "planAurl": "https://www.teamviewer.com",
+    "planBname": "RustDesk",
+    "planBlogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Rustdesk.svg/2048px-Rustdesk.svg.png",
+    "planBurl": "https://rustdesk.com"
   }
 ]
