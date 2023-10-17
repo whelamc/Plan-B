@@ -24,7 +24,7 @@
 </script>
 
 <div class="home w-full grid grid-cols-[repeat(auto-fill,minmax(theme(width.80),1fr))] gap-4 p-4">
-  {#each allData as item, i}
+  {#each allData as item}
     <Cube {...item} />
   {/each}
 </div>

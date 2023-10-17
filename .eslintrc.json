@@ -9,8 +9,9 @@
         "plugin:@typescript-eslint/recommended",
         "prettier"
     ],
-    "parser": "@typescript-eslint/parser",
+    "parser": "svelte-eslint-parser",
     "parserOptions": {
+        "parser": "@typescript-eslint/parser",
         "ecmaVersion": "latest",
         "sourceType": "module"
     },
@@ -18,21 +19,10 @@
         "@typescript-eslint"
     ],
     "rules": {
-        "indent": [
-            "error",
-            "tab"
-        ],
-        "linebreak-style": [
-            "error",
-            "windows"
-        ],
-        "quotes": [
-            "error",
-            "double"
-        ],
-        "semi": [
-            "error",
-            "never"
-        ]
+        "indent": "off",
+        "linebreak-style": "off",
+        "quotes": "off",
+        "semi": "off",
+        "comma-dangle": "off"
     }
 }
