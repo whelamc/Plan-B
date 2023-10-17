@@ -8,11 +8,11 @@
     "planBurl": "https://claude.ai"
   },
   {
-    "planAname": "ChatGPT",
-    "planAlogo": "/",
-    "planAurl": "https://chat.openai.com",
-    "planBname": "Claude",
-    "planBlogo": "https://avatars.slack-edge.com/xxxx/4682316783575_bbab0cdcdb3685eb5c87_512.png",
-    "planBurl": "https://claude.ai"
+    "planAname": "Figma",
+    "planAlogo": "https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg",
+    "planAurl": "https://www.figma.com",
+    "planBname": "Penpot",
+    "planBlogo": "https://europe1.discourse-cdn.com/standard20/uploads/penpot/original/1X/c7faf02565b6006c99edee4b6a27d2fab54950ed.svg",
+    "planBurl": "https://penpot.app"
   }
 ]
