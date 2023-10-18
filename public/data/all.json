@@ -22,5 +22,13 @@
     "planBname": "RustDesk",
     "planBlogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Rustdesk.svg/2048px-Rustdesk.svg.png",
     "planBurl": "https://rustdesk.com"
+  },
+  {
+    "planAname": "Notion",
+    "planAlogo": "https://en.wikipedia.org/wiki/Notion_(productivity_software)#/media/File:Notion-logo.svg",
+    "planAurl": "https://www.notion.so",
+    "planBname": "AFFiNE",
+    "planBlogo": "https://insider.affine.pro/api/workspaces/H6vffRmJbCfA-r3kq_36_/blobs/zaFAx1uVZi_n4TTnQtMo2zC1JgPOBZnYf2BxYVInhc0=",
+    "planBurl": "https://affine.pro/"
   }
 ]
