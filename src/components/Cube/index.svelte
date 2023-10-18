@@ -4,14 +4,14 @@
   import Icon from 'svelte-icons-pack/Icon.svelte';
   import CgArrowsExchange from 'svelte-icons-pack/cg/CgArrowsExchange';
 
-  import Image from "@/components/Image/index.svelte"
+  import Image from '@/components/Image/index.svelte';
 
-  export let planAname: string
-  export let planAlogo: string
-  export let planAurl: string
-  export let planBname: string
-  export let planBlogo: string
-  export let planBurl: string
+  export let planAname: string;
+  export let planAlogo: string;
+  export let planAurl: string;
+  export let planBname: string;
+  export let planBlogo: string;
+  export let planBurl: string;
 </script>
 
 <div
@@ -22,7 +22,21 @@
     <div class="logo w-full rounded-lg relative pb-[100%] overflow-hidden">
       <Image src={planAlogo} />
     </div>
-    <a href={planAurl} class="text-2xl font-semibold md:text-lg">{planAname}</a>
+    <a
+      href={planAurl}
+      target="_blank"
+      rel="noreferrer"
+      class="text-2xl font-semibold group md:text-lg flex flex-row items-center justify-center"
+    >
+      {#each planAname.slice(0, 10) as letter, i}
+        <span class="group-hover:animate-wave" style:animation-delay="{i / 10}s"
+          >{letter}</span
+        >
+      {/each}
+      {#if planAname.length > 10}
+        <span>...</span>
+      {/if}
+    </a>
   </div>
   <div class="arrow w-1/3 text-center">
     <Icon src={CgArrowsExchange} size="100%" className="m-auto" color="white" />
@@ -31,7 +45,21 @@
     <div class="logo w-full rounded-lg relative pb-[100%] overflow-hidden">
       <Image src={planBlogo} />
     </div>
-    <a href={planBurl} class="text-2xl font-semibold md:text-lg">{planBname}</a>
+    <a
+      href={planBurl}
+      target="_blank"
+      rel="noreferrer"
+      class="text-2xl font-semibold group md:text-lg flex flex-row items-center justify-center"
+    >
+      {#each planBname.slice(0, 10) as letter, i}
+        <span class="group-hover:animate-wave" style:animation-delay="{i / 10}s"
+          >{letter}</span
+        >
+      {/each}
+      {#if planBname.length > 10}
+        <span>...</span>
+      {/if}</a
+    >
   </div>
 </div>
 
