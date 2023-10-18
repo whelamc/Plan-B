@@ -15,7 +15,7 @@
 </script>
 
 <div
-  class="cube-container h-auto rounded-lg bg-green-500 opacity-90 flex gap-1 items-center justify-center text-white p-4 px-6"
+  class="cube-container h-auto rounded-lg bg-green-400 opacity-90 shadow-2xl flex gap-1 items-center justify-center text-white p-4 px-6"
   transition:fade
 >
   <div class="plan-a w-1/3 text-center overflow-hidden flex flex-col gap-2">

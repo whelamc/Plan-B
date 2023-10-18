@@ -27,5 +27,5 @@
 {:else if failed}
   <div class="w-full h-full absolute bg-green-100" />
 {:else if loading}
-  <div class="w-full h-full absolute bg-green-300 animate-pulse" />
+  <div class="w-full h-full absolute bg-green-200 animate-pulse" />
 {/if}
