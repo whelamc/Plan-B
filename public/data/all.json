@@ -29,6 +29,14 @@
     "planAurl": "https://www.notion.so",
     "planBname": "AFFiNE",
     "planBlogo": "https://insider.affine.pro/api/workspaces/H6vffRmJbCfA-r3kq_36_/blobs/zaFAx1uVZi_n4TTnQtMo2zC1JgPOBZnYf2BxYVInhc0=",
-    "planBurl": "https://affine.pro/"
+    "planBurl": "https://affine.pro"
+  },
+  {
+    "planAname": "1Password",
+    "planAlogo": "https://upload.wikimedia.org/wikipedia/commons/5/5b/1Password_icon.png",
+    "planAurl": "https://1password.com",
+    "planBname": "Bitwarden",
+    "planBlogo": "https://static-00.iconduck.com/assets.00/bitwarden-icon-2048x2048-dpfdlf2a.png",
+    "planBurl": "https://bitwarden.com/"
   }
 ]
