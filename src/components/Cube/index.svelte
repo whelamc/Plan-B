@@ -26,7 +26,7 @@
       href={planAurl}
       target="_blank"
       rel="noreferrer"
-      class="text-2xl font-semibold group md:text-lg flex flex-row items-center justify-center"
+      class="text-xl font-semibold group md:text-sm flex flex-row items-center justify-center"
     >
       {#each planAname.slice(0, 10) as letter, i}
         <span class="group-hover:animate-wave" style:animation-delay="{i / 10}s"
@@ -49,7 +49,7 @@
       href={planBurl}
       target="_blank"
       rel="noreferrer"
-      class="text-2xl font-semibold group md:text-lg flex flex-row items-center justify-center"
+      class="text-xl font-semibold group md:text-sm flex flex-row items-center justify-center"
     >
       {#each planBname.slice(0, 10) as letter, i}
         <span class="group-hover:animate-wave" style:animation-delay="{i / 10}s"
