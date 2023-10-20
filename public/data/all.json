@@ -38,5 +38,13 @@
     "planBname": "Bitwarden",
     "planBlogo": "https://static-00.iconduck.com/assets.00/bitwarden-icon-2048x2048-dpfdlf2a.png",
     "planBurl": "https://bitwarden.com/"
+  },
+  {
+    "planAname": "GitHub",
+    "planAlogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/200px-GitHub_Invertocat_Logo.svg.png",
+    "planAurl": "https://github.com",
+    "planBname": "GitLab",
+    "planBlogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/GitLab_icon.svg/249px-GitLab_icon.svg.png",
+    "planBurl": "https://gitlab.com"
   }
 ]
