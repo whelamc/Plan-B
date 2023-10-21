@@ -46,5 +46,13 @@
     "planBname": "GitLab",
     "planBlogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/GitLab_icon.svg/249px-GitLab_icon.svg.png",
     "planBurl": "https://gitlab.com"
+  },
+  {
+    "planAname": "Zapier",
+    "planAlogo": "https://upload.wikimedia.org/wikipedia/en/6/65/Zapier_Company_Logo_2022.png",
+    "planAurl": "https://zapier.com",
+    "planBname": "n8n",
+    "planBlogo": "https://www.finsmes.com/wp-content/uploads/2021/04/n8n-300x300.png",
+    "planBurl": "https://n8n.io"
   }
 ]
