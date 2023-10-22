@@ -54,5 +54,13 @@
     "planBname": "n8n",
     "planBlogo": "https://www.finsmes.com/wp-content/uploads/2021/04/n8n-300x300.png",
     "planBurl": "https://n8n.io"
+  },
+  {
+    "planAname": "Xunlei",
+    "planAlogo": "https://www.xunlei.com/main/logo.png",
+    "planAurl": "https://www.xunlei.com",
+    "planBname": "Motrix",
+    "planBlogo": "https://s.motrix.app/images/app-icon-square.png",
+    "planBurl": "https://motrix.app"
   }
 ]
