@@ -62,5 +62,13 @@
     "planBname": "Motrix",
     "planBlogo": "https://s.motrix.app/images/app-icon-square.png",
     "planBurl": "https://motrix.app"
+  },
+  {
+    "planAname": "Photoshop",
+    "planAlogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1024px-Adobe_Photoshop_CC_icon.svg.png",
+    "planAurl": "https://www.adobe.com/products/photoshop.html",
+    "planBname": "Photopea",
+    "planBlogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Photopea_logo.svg/1024px-Photopea_logo.svg.png",
+    "planBurl": "https://www.photopea.com"
   }
 ]
