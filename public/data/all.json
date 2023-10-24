@@ -70,5 +70,13 @@
     "planBname": "Photopea",
     "planBlogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Photopea_logo.svg/1024px-Photopea_logo.svg.png",
     "planBurl": "https://www.photopea.com"
+  },
+  {
+    "planAname": "Google Drive",
+    "planAlogo": "https://upload.wikimedia.org/wikipedia/commons/1/12/Google_Drive_icon_%282020%29.svg",
+    "planAurl": "https://drive.google.com",
+    "planBname": "Nextcloud",
+    "planBlogo": "https://nextcloud.com/wp-content/uploads/2023/02/logo_nextcloud_white.svg",
+    "planBurl": "https://nextcloud.com"
   }
 ]
