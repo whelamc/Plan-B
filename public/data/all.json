@@ -78,5 +78,13 @@
     "planBname": "Nextcloud",
     "planBlogo": "https://nextcloud.com/wp-content/uploads/2023/02/logo_nextcloud_white.svg",
     "planBurl": "https://nextcloud.com"
+  },
+  {
+    "planAname": "Plex",
+    "planAlogo": "https://www.plex.tv/wp-content/themes/plex/assets/img/plex-logo.svg",
+    "planAurl": "https://www.plex.tv",
+    "planBname": "Jellyfin",
+    "planBlogo": "https://jellyfin.org/images/logo.svg",
+    "planBurl": "https://jellyfin.org"
   }
 ]
