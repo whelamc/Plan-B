@@ -86,5 +86,13 @@
     "planBname": "Jellyfin",
     "planBlogo": "https://jellyfin.org/images/logo.svg",
     "planBurl": "https://jellyfin.org"
+  },
+  {
+    "planAname": "Firebase",
+    "planAlogo": "https://www.gstatic.com/devrel-devsite/prod/v75b36477a7a44d608aad493a7965a008a500a66ae23f1902a624b5ad855ffcce/firebase/images/touchicon-180.png",
+    "planAurl": "https://firebase.google.com",
+    "planBname": "Pocketbase",
+    "planBlogo": "https://pocketbase.io/images/logo.svg",
+    "planBurl": "https://pocketbase.io"
   }
 ]
