@@ -94,5 +94,13 @@
     "planBname": "Pocketbase",
     "planBlogo": "https://pocketbase.io/images/logo.svg",
     "planBurl": "https://pocketbase.io"
+  },
+  {
+    "planAname": "BaoTa",
+    "planAlogo": "https://www.bt.cn/static/new/images/logo.svg",
+    "planAurl": "https://www.bt.cn",
+    "planBname": "1Panel",
+    "planBlogo": "https://1panel.cn/img/logo-blue.png",
+    "planBurl": "https://1panel.cn"
   }
 ]
