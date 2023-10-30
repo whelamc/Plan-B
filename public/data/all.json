@@ -102,5 +102,13 @@
     "planBname": "1Panel",
     "planBlogo": "https://1panel.cn/img/logo-blue.png",
     "planBurl": "https://1panel.cn"
+  },
+  {
+    "planAname": "Synology",
+    "planAlogo": "https://en.m.wikipedia.org/wiki/File:Synology_Logo.svg",
+    "planAurl": "https://www.synology.cn",
+    "planBname": "Casaos",
+    "planBlogo": "https://wiki.casaos.io/_assets/casaos-no-text.svg",
+    "planBurl": "https://casaos.io"
   }
 ]
