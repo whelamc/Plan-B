@@ -110,5 +110,13 @@
     "planBname": "Casaos",
     "planBlogo": "https://wiki.casaos.io/_assets/casaos-no-text.svg",
     "planBurl": "https://casaos.io"
+  },
+  {
+    "planAname": "Tailscale",
+    "planAlogo": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Tailscale-Logo-Black.svg",
+    "planAurl": "https://tailscale.com",
+    "planBname": "cf Tunnel",
+    "planBlogo": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Cloudflare_Logo.svg",
+    "planBurl": "https://www.cloudflare.com/products/tunnel"
   }
 ]
