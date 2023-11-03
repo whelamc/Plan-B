@@ -126,5 +126,13 @@
     "planBname": "JPress",
     "planBlogo": "https://oss4jpressio.oss-cn-beijing.aliyuncs.com/attachment/20200527/62be1ad42771424fbae88282ae916a53.png",
     "planBurl": "http://www.jpress.cn"
+  },
+  {
+    "planAname": "Clash",
+    "planAlogo": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Clash_Logo.png",
+    "planAurl": "https://github.com/Fndroid/clash_for_windows_pkg",
+    "planBname": "Clash Verge",
+    "planBlogo": "https://raw.githubusercontent.com/zzzgydi/clash-verge/main/src/assets/image/logo.png",
+    "planBurl": "https://github.com/zzzgydi/clash-verge"
   }
 ]
