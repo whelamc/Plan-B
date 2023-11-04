@@ -134,5 +134,13 @@
     "planBname": "Clash Verge",
     "planBlogo": "https://raw.githubusercontent.com/zzzgydi/clash-verge/main/src/assets/image/logo.png",
     "planBurl": "https://github.com/zzzgydi/clash-verge"
+  },
+  {
+    "planAname": "Chrome",
+    "planAlogo": "https://www.google.com/chrome/static/images/chrome-logo.svg",
+    "planAurl": "https://www.google.com/chrome",
+    "planBname": "Arc",
+    "planBlogo": "https://upload.wikimedia.org/wikipedia/en/3/37/Arc_%28browser%29_logo.svg",
+    "planBurl": "https://arc.net"
   }
 ]
