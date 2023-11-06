@@ -131,9 +131,9 @@
     "planAname": "Clash",
     "planAlogo": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Clash_Logo.png",
     "planAurl": "https://github.com/Fndroid/clash_for_windows_pkg",
-    "planBname": "Clash Verge",
-    "planBlogo": "https://raw.githubusercontent.com/zzzgydi/clash-verge/main/src/assets/image/logo.png",
-    "planBurl": "https://github.com/zzzgydi/clash-verge"
+    "planBname": "",
+    "planBlogo": "",
+    "planBurl": ""
   },
   {
     "planAname": "Chrome",
@@ -142,5 +142,13 @@
     "planBname": "Arc",
     "planBlogo": "https://upload.wikimedia.org/wikipedia/en/3/37/Arc_%28browser%29_logo.svg",
     "planBurl": "https://arc.net"
+  },
+  {
+    "planAname": "ServerCat",
+    "planAlogo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/df/13/a3/df13a31e-19a6-0d33-9e56-19af77f0d764/AppIcon-0-0-2x_U007euniversal-0-4-0-85-220.png/230x0w.webp",
+    "planAurl": "https://servercat.app",
+    "planBname": "ServerBox",
+    "planBlogo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/75/19/a6/7519a627-5f52-ba8c-aa68-6e993b25087e/AppIcon-0-0-1x_U007epad-0-10-0-0-85-220.png/640x0w.webp",
+    "planBurl": "https://apps.apple.com/us/app/serverbox-status-tools/id1586449703"
   }
 ]
