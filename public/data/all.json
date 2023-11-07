@@ -148,7 +148,15 @@
     "planAlogo": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/df/13/a3/df13a31e-19a6-0d33-9e56-19af77f0d764/AppIcon-0-0-2x_U007euniversal-0-4-0-85-220.png/230x0w.webp",
     "planAurl": "https://servercat.app",
     "planBname": "ServerBox",
-    "planBlogo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/75/19/a6/7519a627-5f52-ba8c-aa68-6e993b25087e/AppIcon-0-0-1x_U007epad-0-10-0-0-85-220.png/640x0w.webp",
+    "planBlogo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/75/19/a6/7519a627-5f52-ba8c-aa68-6e993b25087e/AppIcon-0-0-1x_U007epad-0-10-0-0-85-220.png/320x0w.webp",
     "planBurl": "https://apps.apple.com/us/app/serverbox-status-tools/id1586449703"
+  },
+  {
+    "planAname": "PotPlayer",
+    "planAlogo": "https://upload.wikimedia.org/wikipedia/commons/5/58/PotPlayer-.png",
+    "planAurl": "https://potplayer.tv",
+    "planBname": "IINA",
+    "planBlogo": "https://raw.githubusercontent.com/iina/iina/master/iina/Assets.xcassets/AppIcon.appiconset/iina-icon-256.png",
+    "planBurl": "https://github.com/iina/iina"
   }
 ]
