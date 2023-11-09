@@ -158,5 +158,13 @@
     "planBname": "IINA",
     "planBlogo": "https://raw.githubusercontent.com/iina/iina/master/iina/Assets.xcassets/AppIcon.appiconset/iina-icon-256.png",
     "planBurl": "https://github.com/iina/iina"
+  },
+  {
+    "planAname": "Witeboard",
+    "planAlogo": "https://witeboard.com/assets/079c8235f39bc3e9534a837a40b3eb8e.svg",
+    "planAurl": "https://witeboard.com",
+    "planBname": "tldraw",
+    "planBlogo": "https://tldraw.dev/lockup.svg",
+    "planBurl": "https://www.tldraw.com"
   }
 ]
