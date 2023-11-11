@@ -166,5 +166,13 @@
     "planBname": "tldraw",
     "planBlogo": "https://tldraw.dev/lockup.svg",
     "planBurl": "https://www.tldraw.com"
+  },
+  {
+    "planAname": "OBS",
+    "planAlogo": "https://upload.wikimedia.org/wikipedia/commons/d/d3/OBS_Studio_Logo.svg",
+    "planAurl": "https://obsproject.com",
+    "planBname": "KPlayer",
+    "planBlogo": "https://camo.githubusercontent.com/8dd765adaa4394f5def6b211b689cb208e6c12e3965058c57d855bf52079237b/68747470733a2f2f73332e626d702e6f76682f696d67732f323032322f30342f32392f316365373434613534393162623361342e706e67",
+    "planBurl": "https://docs.kplayer.net"
   }
 ]
