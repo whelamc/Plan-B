@@ -174,5 +174,13 @@
     "planBname": "SRS",
     "planBlogo": "https://ossrs.io/lts/en-us/img/srs-200x200.png",
     "planBurl": "https://ossrs.io"
+  },
+  {
+    "planAname": "YubiKey",
+    "planAlogo": "https://www.yubico.com/wp-content/themes/yubicool/img/logos/logo.svg",
+    "planAurl": "https://www.yubico.com/products",
+    "planBname": "CanoKeys",
+    "planBlogo": "https://www.canokeys.org/images/logos/logo.png",
+    "planBurl": "https://www.canokeys.org"
   }
 ]
