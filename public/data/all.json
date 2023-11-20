@@ -182,5 +182,13 @@
     "planBname": "CanoKeys",
     "planBlogo": "https://www.canokeys.org/images/logos/logo.png",
     "planBurl": "https://www.canokeys.org"
+  },
+  {
+    "planAname": "AdsPower",
+    "planAlogo": "https://www.adspower.com/dist/logo_global.png",
+    "planAurl": "https://www.adspower.com",
+    "planBname": "chrome-power-app",
+    "planBlogo": "https://github.com/zmzimpl/chrome-power-app/blob/main/buildResources/icon.png",
+    "planBurl": "https://github.com/zmzimpl/chrome-power-app"
   }
 ]
