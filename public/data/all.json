@@ -190,5 +190,13 @@
     "planBname": "chrome-power-app",
     "planBlogo": "https://raw.githubusercontent.com/zmzimpl/chrome-power-app/main/buildResources/icon.png",
     "planBurl": "https://github.com/zmzimpl/chrome-power-app"
+  },
+  {
+    "planAname": "Infuse",
+    "planAlogo": "https://static.firecore.com/images/infuse/infuse-icon.png",
+    "planAurl": "https://firecore.com/infuse",
+    "planBname": "VidHub",
+    "planBlogo": "https://cdn.zh.okaapps.com/resource/icon/app_icons/vidhub.webp",
+    "planBurl": "https://zh.okaapps.com/product/1659622164"
   }
 ]
