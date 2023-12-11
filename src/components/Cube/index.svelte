@@ -28,12 +28,12 @@
       rel="noreferrer"
       class="text-xl font-semibold group md:text-sm flex flex-row items-center justify-center"
     >
-      {#each planAname.slice(0, 10) as letter, i}
-        <span class="group-hover:animate-wave" style:animation-delay="{i / 10}s"
+      {#each planAname.slice(0, 9) as letter, i}
+        <span class="group-hover:animate-wave" style:animation-delay="{i / 9}s"
           >{letter}</span
         >
       {/each}
-      {#if planAname.length > 10}
+      {#if planAname.length > 9}
         <span>...</span>
       {/if}
     </a>
