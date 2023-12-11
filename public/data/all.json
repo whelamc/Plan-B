@@ -198,5 +198,13 @@
     "planBname": "VidHub",
     "planBlogo": "https://cdn.zh.okaapps.com/resource/icon/app_icons/vidhub.webp",
     "planBurl": "https://zh.okaapps.com/product/1659622164"
+  },
+  {
+    "planAname": "Generative Fill",
+    "planAlogo": "https://www.adobe.com/content/dam/cc/icons/Adobe_Corporate_Web_Logo.svg",
+    "planAurl": "https://www.adobe.com/products/photoshop/generative-fill.html",
+    "planBname": "Uncrop",
+    "planBlogo": "https://static.wixstatic.com/media/d7ed4a_7a04c9d656504bf094ca6abf31a8e11c~mv2.png/v1/fill/w_80,h_80,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/clipdrop_logo.png",
+    "planBurl": "https://clipdrop.co/uncrop"
   }
 ]
